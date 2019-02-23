@@ -10,15 +10,15 @@ Once the folder is open, locate the “index.html” file, right click and open 
 ## Tests implemented
 The program runs 7 test:
 
-1)checks to see that each feed has a name
-2)checks to see that each feed has a Url link 
-3)checks to see that each feed entry is defined 
+1. checks to see that each feed has a name
+2. checks to see that each feed has a Url link 
+3. checks to see that each feed entry is defined 
 
-4)checks to see that the menu is hidden be default 
-5)Checks to see that the menu icon toggles the menu
+4. checks to see that the menu is hidden be default 
+5. Checks to see that the menu icon toggles the menu
 
-6)checks to see that there is at least 1 feed entry when the loadFeed function is called. 
-7)check to see that a new feed entry is not the same as a previous feed entry.
+6. checks to see that there is at least 1 feed entry when the loadFeed function is called. 
+7. check to see that a new feed entry is not the same as a previous feed entry.
 
 ## How to read Jasmine interface
 
