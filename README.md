@@ -27,4 +27,4 @@ A green dot suggest that the test ran successfully and there for the code for th
 
 A red cross suggest that the test was unsuccessful, either the test code was written inaccurately or the function being tested didn’t not work.  
 
-View project <a href="https://h-r-design.github.io/Udacity-FEND-Feed-Reader-Testing/#"> here</a> 
+View project online<a href="https://h-r-design.github.io/Udacity-FEND-Feed-Reader-Testing/#"> here</a> 
