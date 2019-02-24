@@ -1,4 +1,5 @@
 # Feed Reader Testing
+<img src="https://github.com/H-R-Design/Udacity-FEND-Memory-Game/blob/gh-pages/img/Memory%20Game.png" alt="drawing" width="500" height= "489"/>
 ## Table of Contents
 - [Installation](#Installation)
 - [Tests implemented](#Tests-implemented)
