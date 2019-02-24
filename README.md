@@ -1,9 +1,11 @@
 # Feed Reader Testing
 <img src="https://github.com/H-R-Design/Udacity-FEND-Feed-Reader-Testing/blob/master/img/Feed%20Reader%20Test.png" width="500" height= "533"/>
+
 ## Table of Contents
 - [Installation](#Installation)
 - [Tests implemented](#Tests-implemented)
 - [How to read Jasmine interface](#How-to-read-Jasmine-interface)
+
 ## Installation
 to Install the game, simply download the zip file to your desktop. double click the zip file to unzip it (on a Mac device) or use a file unzipper software to access the folder. 
 Once the folder is open, locate the “index.html” file, right click and open in your web browser (i.e. chrome, Firefox, Explorer). 
